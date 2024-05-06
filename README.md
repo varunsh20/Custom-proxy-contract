@@ -5,3 +5,6 @@
 - I have combined 3 different implementation contract i.e Voting Contract, Token Transfer and Staking contract.
 - Proxy contract will delegate the call to appropriate functions of these contrats based on the function id identified.
 - Users can update the funtion id as well if they deploy a new implementation contract.
+
+
+Here is the video explanation for the same - https://drive.google.com/file/d/1SNpw3Vj0BxvZCznRvUCr2n_vRB07Jkwa/view?usp=sharing
