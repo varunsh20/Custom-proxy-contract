@@ -1,0 +1,6 @@
+{
+  "StakingDeployModule#Staking": "0xb18F71e36b0Fca6c183989961E6DB37042238493",
+  "TransferDeployModule#Transfer": "0x5FBD05Ec4eB8CB7511E204449a4FB6d88a92ab64",
+  "VotingContractDeployModule#VotingContract": "0xeC0cDB347ECB492bDccaa7e023337864D83a5ff5",
+  "TransparentProxyDeployModule#TransparentProxy": "0xD38B80BD2F3BEB19459cBcA16e79892684C42C37"
+}
