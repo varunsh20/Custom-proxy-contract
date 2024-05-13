@@ -11,5 +11,3 @@
  - Voting Contract - 0xeC0cDB347ECB492bDccaa7e023337864D83a5ff5
  - Transfer Token - 0x5FBD05Ec4eB8CB7511E204449a4FB6d88a92ab64
  - Staking Contract - 0xb18F71e36b0Fca6c183989961E6DB37042238493
-
-Here is the video explanation for the same - https://drive.google.com/file/d/1SNpw3Vj0BxvZCznRvUCr2n_vRB07Jkwa/view?usp=sharing
